@@ -31,13 +31,6 @@ During the reported live test, all faced obstacles were successfully cleared in 
 - Jumper wires
 - USB cable
 
-## Software & Tools
-
-- Arduino IDE
-- Unity Game Engine
-- C#
-- LiveSignals (signal visualization and analysis)
-
 ## Signal Acquisition & Analysis
 
 Four individual FSR datasets were collected by the team members through repeated pressing and releasing of the sensor.
