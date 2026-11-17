@@ -5,8 +5,9 @@ A gesture-controlled Unity VR game that uses a Force Sensitive Resistor (FSR) se
 ## Live Demo
 
 Experience the game controlled using real-time FSR signals!
+During the reported live test, all faced obstacles were successfully cleared in a single-player run.
 
-- 🎮 **Gameplay Video:** [Watch Project Demonstration](https://drive.google.com/file/d/1zlbMt4H-Z3fCif1WVcJbhShBBQxDE_UV/view?usp=sharing)
+- 🎮 **Gameplay Video:** [Watch Project Demonstration](https://youtu.be/AwKPe7O5to8)
 
 ## Features
 
@@ -129,14 +130,6 @@ The selected 12-point Moving Average Filter has a -3 dB cutoff frequency of appr
   <img src="https://github.com/user-attachments/assets/6c8c57ce-a11e-4890-92d3-8236410a4d33" width="400" alt="Obstacle Navigation">
   <img src="https://github.com/user-attachments/assets/9088f9d8-b0fd-481f-9dc1-b4fdb7653fc9" width="400" alt="Character Jump">
 </p>
-
-## Game Demonstration
-
-The final system integrates the FSR sensor, Arduino-based signal processing, and Unity VR environment to enable real-time finger-pinch-controlled jumping.
-
-During the reported live test, all 16 obstacles were successfully cleared in a single-player run.
-
-🎮 **[Watch the Full Gameplay Video](https://drive.google.com/file/d/1zlbMt4H-Z3fCif1WVcJbhShBBQxDE_UV/view?usp=sharing)**
 
 ## Team Members
 
