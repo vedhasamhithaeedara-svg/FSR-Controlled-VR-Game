@@ -54,16 +54,17 @@ Here is the game play using live signals
 
 ### Hardware Implementation
 
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/25964113-f0f2-411b-bcc3-0904a0ced128" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/25964113-f0f2-411b-bcc3-0904a0ced128" />
 
 
 ### Unity Game Interface
 
 | Game Environment | Character Jump |
 |---|---|
-<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/7f3c89e7-86c7-47e3-96b2-296bf7e07ed3" />
-<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/6c8c57ce-a11e-4890-92d3-8236410a4d33" />
-<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/9088f9d8-b0fd-481f-9dc1-b4fdb7653fc9" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/13c2f9c8-8c87-48e8-aa42-e5b6eb08db3f" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/7f3c89e7-86c7-47e3-96b2-296bf7e07ed3" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/6c8c57ce-a11e-4890-92d3-8236410a4d33" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/9088f9d8-b0fd-481f-9dc1-b4fdb7653fc9" />
 
 
 ## Team Members
