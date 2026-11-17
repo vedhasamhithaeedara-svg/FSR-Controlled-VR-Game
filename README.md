@@ -135,4 +135,3 @@ This project was collaboratively developed by four team members. Each member ind
 
 ---
 
-**A collaborative engineering project combining embedded systems, digital signal processing, and interactive VR game development.**
